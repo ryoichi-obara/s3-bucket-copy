@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "ryoichi-obara <npmjs0102@gmail.com> (http://ryoichi0102.hatenablog.com/)",
   "dependencies": {
-    "moment-timezone": "^0.5.26"
+    "moment-timezone": "^0.5.35"
   },
   "devDependencies": {
     "aws-sdk": "^2.493.0",
